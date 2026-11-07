@@ -1,1 +1,0 @@
-AJUSTE 3 de BUG
