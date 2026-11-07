@@ -1,3 +1,1 @@
-asasdasd
-asdasdasd
-asd
+AJUSTE 2 de BUG
