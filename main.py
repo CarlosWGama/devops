@@ -1,3 +1,1 @@
-
-SENHA = env("SENHA");
-print("Senha: " + senha);
+print("BEM VINDO!");
